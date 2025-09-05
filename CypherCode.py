@@ -1,6 +1,6 @@
-# The string to be encrypted/decrypted:
 import pyperclip
 
+# The string to be encrypted/decrypted:
 message = '1234567890'
 
 # The encryption/decryption key:
