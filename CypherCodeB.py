@@ -1,7 +1,6 @@
-from CypherCode import symbolIndex, translatedIndex
+from CypherCodeA import symbolIndex, translatedIndex
 
 #Code Section to brute force decryption
-
 message = 'guv6Jv6Jz!J6rp5r7Jzr66ntrM'
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
 
